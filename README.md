@@ -86,7 +86,7 @@ In order to use the playbook, you will need to have an Ansible control node alre
 SSH into the control node and follow the steps below:
 - Copy the playbook file to /etc/ansible.
 
-  - [Ansible/filebeat_playbook.txt]
+!(https://github.com/chefesteve/Cyber_Project_1/blob/main/Ansible/filebeat_playbook.txt)
 
 - Update the hosts file to include your Webservers and ELK VM.
 
