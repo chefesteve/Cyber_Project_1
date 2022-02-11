@@ -90,6 +90,6 @@ SSH into the control node and follow the steps below:
 
 - Update the hosts file to include your Webservers and ELK VM.
 
-  - Ansible/hosts.txt
+![Hosts](https://github.com/chefesteve/Cyber_Project_1/blob/main/Ansible/hosts.txt)
 
 - Run the playbook, and navigate to Kibana (http:\\<ELK VM IP>:5601/app/kibana) to check that the installation worked as expected.
