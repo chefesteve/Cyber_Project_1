@@ -92,4 +92,4 @@ SSH into the control node and follow the steps below:
 
 ![Hosts](https://github.com/chefesteve/Cyber_Project_1/blob/main/Ansible/hosts.txt)
 
-- Run the playbook, and navigate to Kibana (http://ELK VM IP:5601/app/kibana) to check that the installation worked as expected.
+- Run the playbook, and navigate to Kibana (http://ELK-VM-IP:5601/app/kibana) to check that the installation worked as expected.
